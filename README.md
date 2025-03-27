@@ -29,23 +29,26 @@ Web Developer
 
 ### Projects
 -------------
-* https://www.mainehomerecreation.com/
-* https://personalcareadulthealthpractice.com/
-* https://ljzucca.com/
-* https://mvppeoplemover.com/
-* https://gstny.com/
-* https://www.ivyleaguedaycamp.com/
-* https://www.comfortsolutionsutah.com/
-* https://unit17.co.uk/
-* https://customizesports.com/
-* https://trufusion.com/
-* https://tuckahoeinn.com/
-* https://dinosdiner.com/
-* https://ecsintel.com/
-* https://bullionsharks.com/
-* https://rcworld.us/
-* https://bestconnectionsinc.com/
-* https://www.foreverlux.com/
-* https://i5chevy.com/
-* https://www.kitchenessentials.ca/
-* https://www.gooutdoorgear.com/
+
+| WordPress |  BigCommerce |
+| --- | --- |
+| https://www.mainehomerecreation.com | https://bullionsharks.com |
+| https://personalcareadulthealthpractice.com | https://rcworld.us |
+| https://ljzucca.com | https://bestconnectionsinc.com |
+| https://mvppeoplemover.com | https://www.foreverlux.com |
+| https://gstny.com | https://i5chevy.com |
+| https://ivyleaguedaycamp.com | https://www.kitchenessentials.ca |
+| https://comfortsolutionsutah.com | https://www.gooutdoorgear.com |
+| https://unit17.co.uk | --- |
+| https://customizesports.com | --- |
+| https://trufusion.com | --- |
+| https://dinosdiner.com | --- |
+| https://ecsintel.com | --- |
+| https://personalcareadulthealthpractice.com | --- |
+| https://personalcareadulthealthpractice.com | --- |
+| https://personalcareadulthealthpractice.com | --- |
+| https://personalcareadulthealthpractice.com | --- |
+| https://personalcareadulthealthpractice.com | --- |
+| https://personalcareadulthealthpractice.com | --- |
+
+
